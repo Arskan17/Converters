@@ -2,17 +2,17 @@
 
 Resizes an image to a specified size.
 
-It uses a web interface for its frontend.
+It uses Flask for its frontend web interface.
 
 ---
 
 ## Usage (assuming you have Python3 installed. If not, here's the [link](https://www.python.org/downloads/))
 
-Open a terminal in the directory containing the `app.py` file and run the following comands
+Open a terminal in the directory containing the file `app.py` and run the following comand
 ```python3
 pip install Flask Pillow
 ```
-then
+then run the program with
 
 ```python3
 python3 app.py
@@ -25,4 +25,4 @@ and `ctrl+click` the link to open in browser, or just click [127.0.0.1:5000](htt
 
 ## OR
 
-Run the program in `Insert IDE here`.
+Run the program in `"Insert IDE here"`.
